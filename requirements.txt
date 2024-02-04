@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+streamlit==1.24.0
+farm-haystack==1.28.2
+logparser3==1.0.4
+openai
+elasticsearch==7.17.9
+sentence-transformers==2.2.2
