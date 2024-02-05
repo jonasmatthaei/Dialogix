@@ -6,7 +6,7 @@ import os
 from main import initialize, initial_query_handler, follow_up_handler, setup
 from haystack import Pipeline
 
-# App title
+# APP title
 st.set_page_config(page_title="Custom Chat")
 
 # Initialize or retrieve conversations and file upload status
